@@ -14,7 +14,7 @@
 1. Execute o comando `docker-compose up --build` para iniciar o backend e o MySQL.
 
 ## Documentação da API
-A documentação da API está disponível em [http://localhost:3000/docs](http://localhost:3000/docs).
+A documentação da API está disponível em [http://localhost:3001/docs](http://localhost:3001/docs).
 
 ## Justificativa das Escolhas
 - **Express**: Simplicidade e popularidade para APIs REST.
@@ -26,3 +26,7 @@ A documentação da API está disponível em [http://localhost:3000/docs](http:/
 
 - `npm run build`: Compila o TypeScript.
 - `npm start`: Inicia o servidor (para desenvolvimento local fora do Docker).
+
+## Front Link
+
+- https://github.com/wellersonfc/uhuutestfront
